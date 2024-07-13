@@ -19,8 +19,8 @@ This project helps users find the best flight deals from a specified origin city
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/atharva-ghorpade/FlightPriceAlert.git
-   cd FlightPriceAlert
+   git clone https://github.com/atharva-ghorpade/Flight-Price-Alert.git
+   cd Flight-Price-Alert
 ### Setting Up Environment Variables
 
 Create a .env file in the project directory to store sensitive details. Use the following format for your .env file:
