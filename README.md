@@ -42,5 +42,4 @@ This project helps users find the best flight deals from a specified origin city
    ```bash
    python main.py
 
-
-Feel free to fill in your LinkedIn and Twitter links, or adjust any sections as needed!
+Stay updated with the latest flight prices using this Flight Price Alert System! Feel free to customize and extend its functionality as you like.
